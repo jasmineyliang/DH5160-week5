@@ -1,0 +1,16 @@
+
+.DS_Store
+bump.ipynb
+gh-md-toc.sh
+build/
+images/book/
+test*
+*.tex
+package.json
+book.pdf
+cover.pdf
+README-pdf.md
+style.theme
+images/banner.png
+images/favicon.ico
+cover.png
