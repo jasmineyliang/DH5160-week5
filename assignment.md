@@ -1,13 +1,17 @@
 ### **Question:**
 
-**_Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,
-between 2000 and 3200 (both included).The numbers obtained should be printed in a comma-separated sequence on a single line._**
+**_
+Cpoy and paste this line of code and make a data frame using "pandas". Print the data frame using Python print function.
+_**
 
 ---
 
 
 ```python
-list=[]
-
+import pandas as pd
+df = pd.util.testing.makeDataFrame().head()
+##
+# print you df
+##
 
 ```
