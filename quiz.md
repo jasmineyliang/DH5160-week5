@@ -1,5 +1,3 @@
-Sure, here's the same list formatted in Markdown with code snippets:
-
 ```markdown
 # Pandas Library Understanding - Easy Questions
 
